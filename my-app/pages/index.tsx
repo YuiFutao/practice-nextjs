@@ -5,7 +5,7 @@ export default function Home() {
       <ul>
         <li>
           <Link href="/about">
-            <a>About</a>
+            About
           </Link>
         </li>
       </ul>
